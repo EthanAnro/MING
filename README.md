@@ -30,13 +30,13 @@
 </html>
 
 ## 📄相关论文
-* MING-MOE技术报告
+* MING-MOE技术报告: MING-MOE: Enhancing Medical Multi-Task Learning in Large Language Models with Sparse Mixture of Low-Rank Adapter Experts] [[paper](https://arxiv.org/pdf/2404.09027.pdf)]
 
-  [MING-MOE: Enhancing Medical Multi-Task Learning in Large Language Models with Sparse Mixture of Low-Rank Adapter Experts](https://arxiv.org/pdf/2404.09027.pdf)
+* 基于多智能体交互的大语言模型多轮问诊自动评估框架: Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator [[paper](https://arxiv.org/pdf/2403.08495.pdf)][[code](https://github.com/BlueZeros/Automatic_Interactive_Evaluation)]
 
-* 基于多智能体交互的大语言模型多轮问诊自动评估框架
+* 二阶段解耦学习的临床大模型对齐方法: MEDCARE: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation [[paper](https://arxiv.org/pdf/2406.17484v3)] [[code](https://github.com/BlueZeros/MedCare)]
 
-  [Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator](https://arxiv.org/pdf/2403.08495.pdf)
+* 基于工具自适应学习与反思的医学智能体和多维度评估基准: ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents [[paper](https://arxiv.org/abs/2410.17657)] [[code](https://github.com/BlueZeros/ReflecTool)]
 
 ## 💫更新
 * 🔥 [2024/04/14] 开源了基于Qwen1.5指令微调的专家混合模型MING-MOE
